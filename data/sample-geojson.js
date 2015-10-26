@@ -156,3 +156,6 @@ var coorsField = {
         "coordinates": [-104.99404191970824, 39.756213909328125]
     }
 };
+
+var trace = {"type":"FeatureCollection","features":[{"type":"Feature","properties":{"title":"","description":"","stroke":"#1087bf","stroke-width":4,"stroke-opacity":1,"fill":"#7ec9b1","fill-opacity":0.20000000298023224},"geometry":{"coordinates":[[[79.860273,6.93075],[79.859361,6.930101],[79.859758,6.929632],[79.860541,6.930218],[79.860273,6.93075]]],"type":"Polygon"},"id":"c3abf2829ba29cfd2b96b9c6fec587f7"},{"type":"Feature","properties":{"id":"marker-ig7i9ex30","title":"","description":"","marker-size":"medium","marker-color":"#1087bf","marker-symbol":""},"geometry":{"coordinates":[79.861915,6.929345],"type":"Point"},"id":"fe5819a3fd276d5e1e737ea81b2b9598"}],"id":"keizer619.o099pekg"}
+
