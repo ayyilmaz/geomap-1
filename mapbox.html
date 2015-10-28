@@ -24,9 +24,9 @@
 		<div id="map"></div>
 	
 		<script type="text/javascript">
-
+			var mapId =  'keizer619.o099pekg';
 			L.mapbox.accessToken = 'pk.eyJ1Ijoia2VpemVyNjE5IiwiYSI6ImNpZzFwNmd2MjExZnp1dm0zbXJnMnMzZW8ifQ.cyyNLOHVDGEQSnvbxto0VA';
-			var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/keizer619.o099pekg/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
+			var mapboxTiles = L.tileLayer('https://api.mapbox.com/v4/' + mapId +'/{z}/{x}/{y}.png?access_token=' + L.mapbox.accessToken, {
 			    attribution: '<a href="http://www.mapbox.com/about/maps/" target="_blank">Terms &amp; Feedback</a>'
 			});
 
